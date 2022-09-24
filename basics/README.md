@@ -1,1 +1,1 @@
- Script that lists all files beginning with a period character
+ Script that prints the type of the file 
