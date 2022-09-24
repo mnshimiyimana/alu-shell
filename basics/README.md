@@ -1,1 +1,1 @@
- Script that prints the type of the file 
+Create a symbolic link to /bin/ls, named __ls__ 
