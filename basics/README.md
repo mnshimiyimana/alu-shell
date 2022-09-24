@@ -1,1 +1,1 @@
-Script that delete files that ends with ~ 
+Script that create directories 
