@@ -1,1 +1,1 @@
-Script that creates a directory with permissions 751.
+Script that changes the group owner of a file.
