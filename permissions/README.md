@@ -1,1 +1,1 @@
-Script that adds execute prermission to the owner of a file.
+Script that adds multiple prermission to the owner and group of a file.
