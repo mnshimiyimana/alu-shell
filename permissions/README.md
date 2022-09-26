@@ -1,1 +1,1 @@
-Script that adds multiple prermission to other users only.
+Script that sets the mode of a file.
