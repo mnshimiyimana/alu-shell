@@ -1,1 +1,1 @@
-Script that adds execute permission to all subdirectories in the directory.
+Script that creates a directory with permissions 751.
