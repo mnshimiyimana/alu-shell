@@ -1,1 +1,1 @@
-Script that creates an empty file hello.
+Script that adds execute prermission to the owner of a file.
