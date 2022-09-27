@@ -1,4 +1,4 @@
-Script that displays the last 10 lines of a file.
+Script that displays the first 10 lines of a file.
 ~
 ~
 ~
