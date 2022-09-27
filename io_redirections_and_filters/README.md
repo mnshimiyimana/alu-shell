@@ -1,4 +1,4 @@
-Script that displays the content of the file.
+Script that displays the content of two files.
 ~
 ~
 ~
