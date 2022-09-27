@@ -1,4 +1,4 @@
-Script that displays a confused smiley.
+Script that displays the content of the file.
 ~
 ~
 ~
