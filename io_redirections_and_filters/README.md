@@ -1,4 +1,4 @@
-Script that display lines that don't contain the pattern.
+Script that display lines that start with a letter.
 ~
 ~
 ~
