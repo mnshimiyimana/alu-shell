@@ -1,4 +1,4 @@
-Script that display lines that start with a letter.
+Script that replaces letters.
 ~
 ~
 ~
