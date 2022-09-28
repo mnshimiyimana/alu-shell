@@ -1,4 +1,4 @@
-Script that displays users and home directories.
+Script that finds all empty files and directories.
 ~
 ~
 ~
