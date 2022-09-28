@@ -1,4 +1,4 @@
-Script that displays the first 10 lines of a file.
+Script that displays thethird line of a file.
 ~
 ~
 ~
