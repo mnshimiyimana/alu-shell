@@ -1,4 +1,4 @@
-Script that decodes acrostics.
+Script that parses web serves.
 ~
 ~
 ~
