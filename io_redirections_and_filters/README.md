@@ -1,4 +1,4 @@
-Script that display lines containing the pattern.
+Script that display lines containing the pattern .
 ~
 ~
 ~
