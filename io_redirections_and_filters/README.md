@@ -1,4 +1,4 @@
-Script that display nbr of line sthat contain a pattern.
+Script that display lines containing the pattern root and 3 lines after them.
 ~
 ~
 ~
