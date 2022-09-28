@@ -1,4 +1,4 @@
-Script that all files with an extension in the directory.
+Script that decodes acrostics.
 ~
 ~
 ~
