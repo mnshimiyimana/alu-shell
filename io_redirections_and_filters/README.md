@@ -1,4 +1,4 @@
-Script that replaces letters.
+Script that removes letters.
 ~
 ~
 ~
