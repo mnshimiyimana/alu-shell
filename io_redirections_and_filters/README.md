@@ -1,4 +1,4 @@
-Script that reverses the input.
+Script that displays users and home directories.
 ~
 ~
 ~
