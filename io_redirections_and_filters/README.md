@@ -1,4 +1,4 @@
-Script that creates a filewith a text .
+Script that creates a file with a text.
 ~
 ~
 ~
