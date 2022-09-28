@@ -1,4 +1,4 @@
-Script that finds all empty files and directories.
+Script that all files with an extension in the directory.
 ~
 ~
 ~
