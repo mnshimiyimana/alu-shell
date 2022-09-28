@@ -1,4 +1,4 @@
-Script that writes into afile the result of a command.
+Script that duplicates the last line in a file.
 ~
 ~
 ~
