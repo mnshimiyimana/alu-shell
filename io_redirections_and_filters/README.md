@@ -1,4 +1,4 @@
-Script that counts nbr of directories.
+Script that displays 10 newest files in the directory.
 ~
 ~
 ~
