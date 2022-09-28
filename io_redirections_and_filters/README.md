@@ -1,4 +1,4 @@
-Script that display lines containing the pattern root and 3 lines after them.
+Script that display lines that don't contain the pattern.
 ~
 ~
 ~
