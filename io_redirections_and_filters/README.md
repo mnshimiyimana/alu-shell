@@ -1,4 +1,4 @@
-Script that removes duplication.
+Script that display lines containing the pattern.
 ~
 ~
 ~
