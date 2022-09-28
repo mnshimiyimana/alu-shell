@@ -1,4 +1,4 @@
-Script that removes letters.
+Script that reverses the input.
 ~
 ~
 ~
