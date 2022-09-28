@@ -1,4 +1,4 @@
-Script that display lines containing the pattern .
+Script that display nbr of line sthat contain a pattern .
 ~
 ~
 ~
