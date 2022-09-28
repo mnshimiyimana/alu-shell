@@ -1,4 +1,4 @@
-Script that displays thethird line of a file.
+Script that creates a filewith a text.
 ~
 ~
 ~
