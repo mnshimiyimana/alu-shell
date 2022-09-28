@@ -1,4 +1,4 @@
-Script that deletes all the regular files.
+Script that counts nbr of directories.
 ~
 ~
 ~
