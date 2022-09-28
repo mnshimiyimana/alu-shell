@@ -1,4 +1,4 @@
-Script that duplicates the last line in a file.
+Script that deletes all the regular files.
 ~
 ~
 ~
