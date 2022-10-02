@@ -1,1 +1,1 @@
-Script that prints hello user.
+Script that adds the last directory.
