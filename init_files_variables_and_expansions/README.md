@@ -1,1 +1,1 @@
-Script that adds the last directory.
+Script that counts the number of directories in PATH.
