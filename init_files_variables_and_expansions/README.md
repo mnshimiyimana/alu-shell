@@ -1,1 +1,1 @@
-Script that counts the number of directories in PATH.
+Script that counts the number of directories in PATH .
