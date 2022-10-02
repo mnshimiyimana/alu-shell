@@ -1,6 +1,2 @@
- Shell Tasks
-
- Shell Permissions
-
- Shell Redirections and filters
+A couple of tasks
  
