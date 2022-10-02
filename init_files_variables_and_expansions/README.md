@@ -1,1 +1,1 @@
-Script that prints the result of the addition of two values.
+Script that prints the result after division.
