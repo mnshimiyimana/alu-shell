@@ -5,7 +5,7 @@
 #using while,if,elif and else.
 
 i=1
-while [ "$x" -lt 11 ]; do
+while [ "$i" -lt 11 ]; do
   # if the value is 4:bad luck
    if [ "$i" -eq 4 ]; then
    echo "bad luck"

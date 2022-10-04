@@ -5,7 +5,7 @@ i=0
  until false; do
   echo "Best School" 
   ((i++))
-  if [[ &i -lt 10 ]]; then
+  if [[ $i -lt 10 ]]; then
   continue 
    else
       break
