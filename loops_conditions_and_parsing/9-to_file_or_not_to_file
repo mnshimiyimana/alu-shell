@@ -1,4 +1,4 @@
-#!i/usr/bin/env bash
+#!/usr/bin/env bash
 #script that gives you info about school file
 
 file="school"
