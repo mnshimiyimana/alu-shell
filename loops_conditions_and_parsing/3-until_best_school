@@ -7,10 +7,10 @@ i=0
   ((i++))
   if [[ &i -lt 10 ]]; then
   continue 
- else
-  break
- fi
-done
+   else
+      break
+      fi
+    done
 
 
 
