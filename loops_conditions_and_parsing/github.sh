@@ -1,4 +1,4 @@
 git add .
 git status
-git commit -m 'A bunsh of tasks'
+git commit -m 'A bunch of tasks'
 git push
